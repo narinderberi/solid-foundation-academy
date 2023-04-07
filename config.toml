@@ -4,7 +4,7 @@
 #theme = "educenter-hugo"
 
 ######################## default configuration ####################
-baseURL = "https://solidfoundation.academy/"
+baseURL = "https://www.solidfoundation.academy/"
 #baseURL = "https://green-bush-0b2209e00.3.azurestaticapps.net/"
 #baseURL = "https://demo.gethugothemes.com/educenter/examplesite/"
 title = "Educenter | hugo education template"
